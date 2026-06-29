@@ -178,9 +178,9 @@ Conduct a thorough business intelligence analysis of Blinkit's inventory distrib
 - [x] Quick-commerce industry leaders for domain insights
 
 ## 🔗 Connect & Collaborate
-- [x] Analyst: Soumyadeep Dhar
-- [x] 📧 Email: soumyadeepdhar433@gmail.com
-- [x] 💼 LinkedIn: www.linkedin.com/in/soumyadeep-dhar-785724333
+- [x] Analyst: Kunal Rakshe
+- [x] 📧 Email: rakshekunal2@gmail.com
+- [x] 💼 LinkedIn: https://www.linkedin.com/in/kunal-rakshe-128a38318
 
 ## 🌟 Star this repository if you found it helpful!
 - [x] Keywords: data-analytics,  business-intelligence,  excel-dashboard retail-analytics,  quick-commerce, kpi-analysis, data-visualization, sales-analytics,  inventory-management strategic-planning
